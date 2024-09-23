@@ -1,0 +1,12 @@
+program TestProgram
+var
+    a : int
+    b : int
+    c : int
+    i : int
+begin
+    for i := 1 to 10 do
+    begin
+        output := i
+    end
+end
