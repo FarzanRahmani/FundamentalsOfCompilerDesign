@@ -1,0 +1,3 @@
+1. DSL for ML
+2. Grammar extraction (with ML, word2vec, word2sec, LLM) e.g. give a Java code and extract grammar
+3. change excel file to database commands to create tables (with ML and LLM)
