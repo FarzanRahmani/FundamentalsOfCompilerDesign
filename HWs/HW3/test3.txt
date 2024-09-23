@@ -1,0 +1,13 @@
+int a;
+boolean b = false;
+a = 3;
+
+if(a < 3) {
+    a = a + 2;
+}
+while(a > 8) {
+    if(a == 4) {
+        # hello
+        a = a + 2;
+    }
+}
