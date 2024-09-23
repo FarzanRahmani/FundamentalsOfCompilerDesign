@@ -1,0 +1,16 @@
+program Test
+var
+  a : int
+  b : int
+  c : int
+  d : int
+  e : float
+  f : float
+  u : string
+begin
+    # a := b > c ? d : e
+    # a := (b > c) && (c > b) ? d : e
+    # d := (b > c) || (b > c) ? e : d
+    a := b > c ? d : c ? e : f
+    # a := b > c ? d : b && c ? e : f
+end
