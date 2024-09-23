@@ -1,0 +1,19 @@
+program TestProgram
+var
+    x : int
+    y : int
+begin
+    x := 2
+    y := 3
+    if y >= x then
+    begin
+        if 5 <= 5 then
+        begin
+            output := 20
+        end
+        else 
+            output := 2
+    end
+    else
+        output := 1
+end

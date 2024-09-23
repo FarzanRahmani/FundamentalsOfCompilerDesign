@@ -1,0 +1,11 @@
+# variable declaration
+int a;
+boolean b = true;
+a = 3;
+# if condition
+if ( a < 8 ){
+    # assignment
+    a = a + 1;
+}
+a = a + 2;
+# end
